@@ -1,0 +1,249 @@
+PROGRAM 1:
+
+1. Write an algorithm to determine maximum of three numbers. Also draw the 
+corresponding flow chart.
+
+2. Write an algorithm to determine the sum of individual digits of a given integer. Also 
+draw the corresponding flow chart.
+
+4. Write an algorithm to determine whether a given number is prime or not. Also draw the 
+corresponding flow chart.
+
+5. Write an algorithm to generate first 100 prime numbers. Also draw the corresponding 
+flow chart.
+
+
+
+
+PROGRAM 2:
+
+1. Write a C program that reads two values from the keyboard, swaps their values and prints out the 
+result.
+
+2. The length and breadth of a rectangle and radius of a circle are input through the keyboard. Write 
+a program to calculate the area and perimeter of the rectangle, and the area and circumference of 
+the circle.
+
+3. If a three-digit integer is input through the keyboard, write a program to calculate the sum of its 
+digits. (Hint: Use the modulo operator ‘%’)
+
+4. An integer is entered as an input through the keyboard. Write a program to find out whether it is an 
+odd number or an even number.
+
+5. Input two integer numbers and divide the larger number by the smaller one. Then display the result 
+using printf() function as a fractional number first and then as a real valued number. (Example: 9 
+divided by 5 shall yield “ 4/5” and “1.8” respectively. )
+
+6. Write a C program to find the maximum and minimum of three numbers.
+
+7. Accept three integer numbers and find their average. Next display which numbers are below and 
+above the average value.
+
+8. Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a program to 
+convert this temperature into Centigrade degrees. 
+
+9. Write a C program which accepts basic salary as input and prints the gross salary, which is sum of 
+the basic, dearness allowance (60% of basic salary), and house rent allowance (15% of basic salary). 
+
+18. Any year is input through the keyboard. Write a program to determine whether the year is a leap 
+year or not. (Hint: Use the % (modulus) operator)
+
+
+
+
+
+
+PROGRAM 3:
+
+1. Write a C program which prints all integers divisible by n between 1 and 100 where value of n is 
+provided by the user.
+
+2. Write a C program to find out sum of digits of a given number. 
+
+4. Write a C program to find out sum of the following series.
+S=1+2+3+4+ ... +n
+
+5. Write a C program to find out sum of the following series.
+S=1.2+2.3+3.4+4.5+ ... +n.(n+1)
+
+6. Write a C program to find out factorial of a given number. 
+
+7. C program to find out sum of the following series.
+S=1!+2!+3!+4!+ ... +n!
+
+9. Write a C program which prints all prime numbers between 1 and 100
+
+
+12. Write a program to print the multiplication table of the number entered by the user. The table 
+should get displayed in the following form.
+29 * 1 = 29
+29 * 2 = 58
+... ... ...
+
+16. Write a C program which accepts 100 integers and displays the counts of positives, negatives and 
+zeros entered.
+
+17. Write a C program to print the first n numbers of the Fibonacci sequence. The Fibonacci sequence 
+is constructed by adding the last two numbers of the sequence so far to get the next number in the 
+sequence. The first and second numbers of the sequence are defined as 0 and 1. We get:
+0, 1, 1, 2, 3, 5, 8, 13, 21…
+
+
+
+
+
+PROGRAM 4:
+
+1. Write a program in C to reverse the contents of the elements of an integer array.
+
+2. Write a program in C to read n number of values in an array. After that, count the total number of 
+duplicate elements in that array. Then copy the elements except the duplicate elements of that array 
+into another array and display this array in reverse order.
+
+3. Write a menu-driven program for accepting values in two square matrix of 3x3 dimension and 
+generate their sum, difference and product.
+
+4. Write a program to find the range of a set of integers entered by the user. Range is the difference 
+between the smallest and biggest number in the list.
+
+5. Write a C program which accepts ten integers from user and prints them in ascending order. Use 
+array to store the integers.
+
+6. Write a C program which accepts number obtained by five students in five subjects. Print the total 
+marks obtained by all the students. Also determine the highest total marks
+
+
+
+PROGRAM 5:
+
+2. A positive integer is entered through the keyboard, write a C function to find the binary equivalent 
+of this number using recursion.
+
+3. Write a recursive function which returns the sum of individual digits of a number passed as 
+argument.
+
+5. Write a C program which accepts a string from user and counts the number of characters in the 
+string without using string library functions.
+
+6. Write a C program which accepts a string from user and prints the reverse of the string without 
+using string library functions.
+
+9. Write a program that reads a line and converts it into all capitals without using any string library 
+function. (input string may also contain capital letters)
+
+12. Write a program that converts a string like “123” to integer 123. Do not use any string library 
+function.
+
+13. Write a C program which accepts a string from user and checks whether it is palindrome or not. Do 
+not use any string library function. [Example of a palindrome string: "abcba", "abba"]
+
+14. Write a C program which accepts a string from user and counts the number of words in it. Do not 
+use any string library function
+
+23. Write a program in C to store n numbers in an array and print the elements using pointers. Also 
+compute the sum of all elements of that array using pointers.
+
+28. Write the function strend(s,t), which returns 1 if the string t occurs at the end of the string s, and 
+zero otherwise
+
+
+
+
+PROGRAM 6:
+
+1. Create a structure to specify data on students given below:
+ Roll number, Name, Department, Course, Year of joining
+ Assume that there are not more than 100 students in the college. 
+a. Write a function to print the names of all students who joined in a particular year.
+b. Write a function to print the data of a student whose roll number is given.
+
+2. Write a program in C to create and store information in a text file.
+
+3. Write a program in C whose output is the program itself.
+
+9. Write a program to copy one file to another where files names are passed as command line 
+arguments
+
+11. Write a program which read a C source file having comments (between /* and */) and copies it 
+another file leaving the comments.
+
+
+
+
+
+PROGRAM 7 PART1:
+
+1. Write a menu-driven program for finding roots of a nonlinear equation using Bisection, Regula 
+Falsi and Newton-Raphson method.
+
+
+2. Use the above program to find 3 roots of the equation xtan(x)=c where c is a user-input constant. 
+Use both bisection method and Newton-Raphson method.
+
+4. Write a menu-driven program for solving a system of linear equations using Gauss-Elimination 
+method, Jacobi’s method and Gauss Elimination with pivoting method
+
+5. Using the above program solve the following system of equations :
+i. 𝑥 + 𝑦 + 𝑧 = 6 ii. 𝑥1 + 𝑥2 + 𝑥3 = 3 iii. 2𝑥1 + 4𝑥2 + 2𝑥3 = 15
+ 𝑥 + 𝑦 − 𝑧 = 0 2𝑥1 + 3𝑥2 + 𝑥3 = 6 2𝑥1 + 𝑥2 + 2𝑥3 = −5
+ 𝑥 − 𝑦 + 𝑧 = 2 𝑥1 − 𝑥2 − 𝑥3 = −3 4𝑥1 + 𝑥2 − 2𝑥3 = 0
+
+6. Write a menu-driven program for implementing Interpolation using Lagrange's formula, Newton’s 
+forward difference formula, and Newton’s backward difference formula. 
+
+7. For the following table of values:
+x 1 2 3
+4
+f(x) 1 8 27 64
+Find 𝑓(2.5) using all three methods and comment on your answer
+
+
+
+
+PROGRAM 7 PART 2:
+
+1. An experiment gave the following table of values for the dependent variable y for a set of known 
+values of x. Obtain an appropriate least squares fit for the data. 
+x 1 2 3 4 5 6 7 8
+9
+y 5.5 7.0 9.6 11.5 12.6 14.4 17.6 19.5 20.5
+
+
+3. Find 𝑑𝑦
+𝑑𝑥
+using forward, backward and central differencing schemes for 𝑦 = 𝑆𝑖𝑛 𝑥 using (i) ∆𝑥 =
+0.1 (ii) ∆𝑥 = 0.01 for 0 ≤ 𝑥 ≤ 𝜋 and determine the relative percentage error, defined as 
+|
+𝑑𝑦
+𝑑𝑥|
+𝑛𝑢𝑚𝑒𝑟𝑖𝑐𝑎𝑙
+−
+𝑑𝑦
+𝑑𝑥|
+𝑒𝑥𝑎𝑐𝑡
+𝑑𝑦
+𝑑𝑥|
+𝑒𝑥𝑎𝑐𝑡
+| × 100 in each case with the exact derivative given by 𝑑𝑦
+𝑑𝑥|
+𝑒𝑥𝑎𝑐𝑡
+= cos(𝑥). 
+Comment on the result
+
+
+5. Write a function integrate to find the integration of a function f within the limits a and b by 
+Trapezoidal and Simpson's 1/3rd integration method. f, a and b should be provided as arguments of 
+the function integrate. Write the main function to take the name of the integrand function and the 
+limits of integration as command line arguments.
+
+
+6. Write a program to solve the following differential equations by (i) Euler method, (ii) Runge-Kutta 
+second order method. Compare your solutions. In each method estimate the truncation error and 
+choose an appropriate step size.
+𝑑𝑦
+𝑑𝑥 = 2𝑥𝑦, 𝑦(0) = 0.5, solution for 1 ≥ 𝑥 ≥ 0
+𝑑𝑦
+𝑑𝑥 = 𝑥
+2 + 𝑦
+2
+, 𝑦(0) = 1, 𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛 𝑓𝑜𝑟 1 ≥ 𝑥 ≥ 0
